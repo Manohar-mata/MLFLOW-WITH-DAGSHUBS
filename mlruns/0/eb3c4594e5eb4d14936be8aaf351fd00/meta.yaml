@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/INDIAN/Desktop/MLFlow/mlruns/0/eb3c4594e5eb4d14936be8aaf351fd00/artifacts
+end_time: 1735620812890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb3c4594e5eb4d14936be8aaf351fd00
+run_name: orderly-sponge-403
+run_uuid: eb3c4594e5eb4d14936be8aaf351fd00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735620801889
+status: 3
+tags: []
+user_id: INDIAN
